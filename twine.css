@@ -1003,4 +1003,10 @@ tw-shudder-in {
     -webkit-animation-duration: 1.6s
 }
 
+@media only screen and (max-width: 500px) {
+    html {
+        font-size: 18px;
+    }
+}
+
 </style>
